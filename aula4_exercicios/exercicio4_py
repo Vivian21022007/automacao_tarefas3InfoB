@@ -1,0 +1,12 @@
+'''
+exercicio 4
+-----------------------------------------------------------------------------------
+imprimindo um unico caracter * por vez e ultilizando a estrutura de repetção for, crie um progama que imprima no console o texto abaixo: 
+*
+**
+***
+****
+*****
+******
+*******
+'''

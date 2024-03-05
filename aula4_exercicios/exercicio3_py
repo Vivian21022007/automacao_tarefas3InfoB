@@ -1,0 +1,6 @@
+'''
+exercicio 3
+----------------------------------------------------------------------------------
+crie um progama que execute repetidamente o progama do exercicio 2. apos apresentar o resultado o progama deve perguntar se o usuario deseja comtinuar a calcular, se a resposta for s (sim) o progama deve continuar se a resposta for n (n)
+o progama deve parar.
+'''

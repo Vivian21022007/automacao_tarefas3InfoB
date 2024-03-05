@@ -1,0 +1,21 @@
+'''
+exercicio 2
+----------------------------------------------------------------------------
+crie um progama que recebe 2 numeros reias como entrada e um operador matematico. de acordo com o operador fornecido o progama devera calcular e apresentar o resultado da operação.
+
+exemplo de entrada 
+1.2
+2.3
++
+
+exemplo de saida 
+o resultado da soma é 3.5
+'''
+n1 = float(input('digite o primeiro numero : '))
+n2 = float(input('digite o segundo numero : '))
+o = (input('digite o operador: '))
+
+if o == "+":
+    print (n1 + n2)
+
+
